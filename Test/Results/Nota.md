@@ -1,0 +1,1 @@
+> N.B. Nella colonna "mode" dei file csv con i risultati della "phase2" (QAT), è presente la scritta "ptq" per il semplice fatto che il modello ri-allenato con fine-tuning LoRA è stato salvato sempre come fosse PTQ, ma in realtà è la versione QAT, come si evince anche dai codici e dai risultati.
