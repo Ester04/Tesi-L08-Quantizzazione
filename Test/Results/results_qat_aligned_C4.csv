@@ -1,0 +1,2 @@
+timestamp_utc,model_path,mode,num_prompts,ttft_mean_s,ttft_std_s,tokens_sec_mean,tokens_sec_std,peak_vram_gib,perplexity
+2026-09-22T20:12:43Z,outputs/gemma_qat_aligned_seed42_C4,ptq,100,0.10417361823376269,0.09012456744670139,72.65479042154257,0.37304558208076677,7.237171173095703,12.98734730233619
