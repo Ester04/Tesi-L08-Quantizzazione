@@ -1,0 +1,2 @@
+timestamp_utc,model_path,mode,num_prompts,ttft_mean_s,ttft_std_s,tokens_sec_mean,tokens_sec_std,peak_vram_gib,perplexity
+2026-09-19T09:33:45Z,outputs/gemma_qat,ptq,100,0.10380161259090528,0.08969055685909208,77.9132316577582,16.54541803796815,7.237171173095703,15.761726403267955
